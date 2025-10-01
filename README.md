@@ -96,5 +96,3 @@ This checklist is updated based on the current project status.
 This is a personal learning repository, but if you find a bug or have a suggestion for improvement, feel free to open an issue or submit a pull request!
 
 Happy Coding! ✨
-
-This is a personal learning repository, but if you find a bug or have a suggestion for improvement, feel free to open an issue or submit a pull request!
